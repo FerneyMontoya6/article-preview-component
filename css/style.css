@@ -103,6 +103,7 @@ img {
     transform: scale(0.9);
 }
 
+
 .background-share {
     position: absolute;
     right: 0;
@@ -124,6 +125,7 @@ img {
 .background-share--social-media {
     margin-left: 3.1rem;
     display: flex;
+    align-items: center;
 }
 .background-share--social-media img {
     width: 2rem;
@@ -141,6 +143,3 @@ img {
     letter-spacing: 0.4rem;
 }
 
-.hidden {
-    display: none;
-}
